@@ -1,1 +1,1 @@
-# etch-a-sketch
+The creation of an Etch-a-sketch following The Odin Project.
