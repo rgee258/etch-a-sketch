@@ -1,0 +1,59 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+body {
+	background-color: #63110e;
+}
+
+.main-header {
+	text-align: center;
+	font-family: 'Shadows Into Light', cursive;
+	font-size: 30px;
+	color: #e2cd2f;
+}
+
+#container {
+	margin: 0 auto;
+	width: 500px;
+	height: 500px;
+	outline: 1px solid gray;
+	background-color: white;
+}
+
+.buttons {
+	width: 100%;
+	margin: 0 auto;
+	margin-bottom: 30px;
+	text-align: center;
+}
+
+.btn {
+	font-size: 16px;
+	font-family: 'Nunito Sans', sans-serif;
+	background-color: #4b07ba;
+	color: white;
+	padding: 10px;
+	border: none;
+	border-radius: 3px;
+}
+
+.btn:hover {
+	cursor: pointer;
+}
+
+.btn-outline {
+	margin: 0 20px;
+}
+
+.square {
+	position: relative;
+	float: left;
+	width: 20px;
+	height: 20px;
+}
+
+.outlined {
+	outline: 1px solid gray;
+}
